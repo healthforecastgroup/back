@@ -15,10 +15,8 @@ Instruction:
 3. Run back-end services:
 
 3.1 Create python environment by running below in command line.
-
-    {winpython}/scripts/env.bat
-3.2 Run below to start 'predict' backend service 
-
+    python.exe {winpython}/scripts/env.bat
+3.2 Run below to start 'predict' backend service.
     {back}/apps/predict/predict.py
 	
 4. Using back-end service:
